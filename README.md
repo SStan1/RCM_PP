@@ -1,6 +1,7 @@
 # RCM++
 
-The aim of this project is to propose a new algorithm to help the RCM algorithm choose a more appropriate starting point. We call the RCM using this new algorithm RCM++ and compare it in detail with the now commonly used GL_RCM and MIND_RCM. Related research can be found in 
+The aim of this project is to propose a new algorithm to help the RCM algorithm choose a more appropriate starting point. We call the RCM using this new algorithm RCM++ and compare it in detail with the now commonly used GL_RCM and MIND_RCM. Related research can be found in https://doi.org/10.48550/arXiv.2409.04171
+
 
 ## Table of Contents
 
